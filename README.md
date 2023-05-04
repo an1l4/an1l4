@@ -8,6 +8,16 @@ A self taught Go developer, passionate about programming also fast learner with 
 
 
 <!-- ![image](https://user-images.githubusercontent.com/97793229/182523426-4a1a13f0-620e-4749-8264-f757631301f4.png) -->
+- 💻 I'm a Golang expert and a backend engineer.
+- 💼 Check my professional profile on [Linkedin](https://www.linkedin.com/in/an1l4/)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=an1l4&count_private=true&show_icons=true&hide_rank=true" />
+</a> <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=an1l4&layout=compact" />
+</a>
+
+[![Visits Badge](https://badges.pufler.dev/visits/Ashwin-Rajeev/Ashwin-Rajeev)](https://badges.pufler.dev)
 
 
   <summary>☎️ Contact me</summary>
