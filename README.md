@@ -17,7 +17,7 @@ A self taught Go developer, passionate about programming also fast learner with 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=an1l4&layout=compact" />
 </a>
 
-[![Visits Badge](https://badges.pufler.dev/visits/Ashwin-Rajeev/Ashwin-Rajeev)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/an1l4/an1l4)](https://badges.pufler.dev)
 
 
   <summary>☎️ Contact me</summary>
